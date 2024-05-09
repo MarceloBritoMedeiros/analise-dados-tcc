@@ -1,0 +1,3659 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "partial_match": true,
+            "place_id": "ChIJwY5kpitazpQRNUtDjycZDoM",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "subway_station",
+                "transit_station"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "partial_match": true,
+            "place_id": "ChIJ4eQe4zhXzpQRTacWl4bxR9E",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "train_station",
+                "transit_station"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.5893388,
+                    "lng": -46.63443849999999
+                },
+                "southwest": {
+                    "lat": -23.6098744,
+                    "lng": -46.6912297
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "arrival_time": {
+                        "text": "14:59",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714931994
+                    },
+                    "departure_time": {
+                        "text": "14:13",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714929196
+                    },
+                    "distance": {
+                        "text": "8,2 km",
+                        "value": 8213
+                    },
+                    "duration": {
+                        "text": "47 minutos",
+                        "value": 2798
+                    },
+                    "end_address": "Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                    "end_location": {
+                        "lat": -23.5940221,
+                        "lng": -46.6912297
+                    },
+                    "start_address": "Vila Mariana - Vila Mariana, São Paulo - SP, 04117-041, Brasil",
+                    "start_location": {
+                        "lat": -23.58968,
+                        "lng": -46.63443849999999
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "48 m",
+                                "value": 48
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 44
+                            },
+                            "end_location": {
+                                "lat": -23.5893388,
+                                "lng": -46.6347371
+                            },
+                            "html_instructions": "Ande para Vila Mariana",
+                            "polyline": {
+                                "points": "nj~nCfhs{G]`@e@X"
+                            },
+                            "start_location": {
+                                "lat": -23.58968,
+                                "lng": -46.63443849999999
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "23 m",
+                                        "value": 23
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 4
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "polyline": {
+                                        "points": "nj~nCfhs{G]`@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.58968,
+                                        "lng": -46.63443849999999
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 12
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "html_instructions": "Pegue a entrada <span class=\"location\">Vila Mariana</span>",
+                                    "polyline": {
+                                        "points": "pi~nChis{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 6
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "polyline": {
+                                        "points": "pi~nChis{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "25 m",
+                                        "value": 25
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 22
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5893388,
+                                        "lng": -46.6347371
+                                    },
+                                    "polyline": {
+                                        "points": "pi~nChis{Ge@X"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1,1 km",
+                                "value": 1076
+                            },
+                            "duration": {
+                                "text": "2 minutos",
+                                "value": 120
+                            },
+                            "end_location": {
+                                "lat": -23.5984416,
+                                "lng": -46.6367003
+                            },
+                            "html_instructions": "Metrô em direção a Jabaquara",
+                            "polyline": {
+                                "points": "jh~nCbjs{G@MN@\\Hv@RxAn@xAh@f@Zp@`@z@x@z@l@b@Xl@Vx@ZxAPbB@nB@bCBnD@lA@lB?|AAxA?bBA~@?f@?@?AL"
+                            },
+                            "start_location": {
+                                "lat": -23.5893388,
+                                "lng": -46.6347371
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "name": "Santa Cruz"
+                                },
+                                "arrival_time": {
+                                    "text": "14:16",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714929360
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5893388,
+                                        "lng": -46.6347371
+                                    },
+                                    "name": "Vila Mariana"
+                                },
+                                "departure_time": {
+                                    "text": "14:14",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714929240
+                                },
+                                "headsign": "Jabaquara",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "Metrô de São Paulo",
+                                            "phone": "011 55 800 770 7722",
+                                            "url": "http://www.metro.sp.gov.br/"
+                                        }
+                                    ],
+                                    "color": "#285083",
+                                    "name": "Tucuruvi / Jabaquara",
+                                    "short_name": "Linha 1",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-metro.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 1
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "41 m",
+                                "value": 41
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 86
+                            },
+                            "end_location": {
+                                "lat": -23.5984819,
+                                "lng": -46.63710880000001
+                            },
+                            "html_instructions": "Ande para Santa Cruz",
+                            "polyline": {
+                                "points": "fa`oCjvs{GFpA"
+                            },
+                            "start_location": {
+                                "lat": -23.5984416,
+                                "lng": -46.6367003
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 16
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "polyline": {
+                                        "points": "fa`oCjvs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 40
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "polyline": {
+                                        "points": "fa`oCjvs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "41 m",
+                                        "value": 41
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 30
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5984819,
+                                        "lng": -46.63710880000001
+                                    },
+                                    "polyline": {
+                                        "points": "fa`oCjvs{GFpA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3,8 km",
+                                "value": 3788
+                            },
+                            "duration": {
+                                "text": "7 minutos",
+                                "value": 442
+                            },
+                            "end_location": {
+                                "lat": -23.6098744,
+                                "lng": -46.6687187
+                            },
+                            "html_instructions": "Metrô em direção a Capão Redondo",
+                            "polyline": {
+                                "points": "na`oC|xs{G@?@rB@pG}@lg@?Lw@`c@K`C?FEn@YbGOpDZbBTjAVxAh@|A~@vBrBzCzDzDlDnDxCxChBhB|B~BhBhBv@x@NPbAfAlAnA|A~A|CzC~B~BnAnA`CzBjDfDrApAl@v@t@~@Z`@h@n@j@x@T\\"
+                            },
+                            "start_location": {
+                                "lat": -23.5984819,
+                                "lng": -46.63710880000001
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "name": "Eucaliptos"
+                                },
+                                "arrival_time": {
+                                    "text": "14:31",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714930266
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5984819,
+                                        "lng": -46.63710880000001
+                                    },
+                                    "name": "Santa Cruz"
+                                },
+                                "departure_time": {
+                                    "text": "14:23",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714929824
+                                },
+                                "headsign": "Capão Redondo",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaMobilidade",
+                                            "phone": "011 55 800 770 7106",
+                                            "url": "https://www.viamobilidade.com.br/"
+                                        }
+                                    ],
+                                    "color": "#7e57a2",
+                                    "name": "Capão Redondo / Chácara Klabin",
+                                    "short_name": "Linha 5",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viamobilidade.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 4
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,4 km",
+                                "value": 431
+                            },
+                            "duration": {
+                                "text": "8 minutos",
+                                "value": 484
+                            },
+                            "end_location": {
+                                "lat": -23.6074479,
+                                "lng": -46.6705063
+                            },
+                            "html_instructions": "Ande para Av. Cotovia, 605",
+                            "polyline": {
+                                "points": "thboCn~y{G[w@RYw@u@GHGJ_@d@GHk@x@m@x@@@ORA?oA|AQT_@A[d@EF?ACBKLAB@@]d@e@n@IP"
+                            },
+                            "start_location": {
+                                "lat": -23.6098744,
+                                "lng": -46.6687187
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 20
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "polyline": {
+                                        "points": "thboCn~y{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 4
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "polyline": {
+                                        "points": "thboCn~y{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "32 m",
+                                        "value": 32
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 132
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6097302,
+                                        "lng": -46.6684381
+                                    },
+                                    "html_instructions": "Pegue a saída <span class=\"location\">Eucaliptos</span>",
+                                    "polyline": {
+                                        "points": "thboCn~y{G[w@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "48 m",
+                                        "value": 48
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 38
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6095482,
+                                        "lng": -46.66804140000001
+                                    },
+                                    "html_instructions": "Siga para <b>nordeste</b> em <b>Av. Ibirapuera</b> em direção a <b>Av. Cotovia</b>",
+                                    "polyline": {
+                                        "points": "lhboC|{y{Gw@u@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098325,
+                                        "lng": -46.66830849999999
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,4 km",
+                                        "value": 351
+                                    },
+                                    "duration": {
+                                        "text": "5 minutos",
+                                        "value": 290
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6074479,
+                                        "lng": -46.6705063
+                                    },
+                                    "html_instructions": "Vire <b>à esquerda</b> em direção a <b>Av. Cotovia</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "maneuver": "turn-left",
+                                    "polyline": {
+                                        "points": "tfboCfzy{GGHGJ_@d@GHk@x@m@x@@@ORA?oA|AQT_@A[d@EF?ACBKLAB@@]d@e@n@IP"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6095482,
+                                        "lng": -46.66804140000001
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2,5 km",
+                                "value": 2513
+                            },
+                            "duration": {
+                                "text": "11 minutos",
+                                "value": 648
+                            },
+                            "end_location": {
+                                "lat": -23.595298,
+                                "lng": -46.6885632
+                            },
+                            "html_instructions": "Ônibus em direção a Terminal Água Espraiada via Indianópolis",
+                            "polyline": {
+                                "points": "lyaoCliz{GJJiAxAkA~Ay@hACB{@jAEFg@n@]^CFCFe@r@qAbBoAbBKLm@z@i@r@INCFCTCVQj@Y|@Uj@_@dAO`@[x@Ul@Wp@ABM^CHUj@Yt@Up@Wv@o@hBSf@eArC}@a@sAm@c@QyAo@yAq@_@bA}@bCWp@u@xBg@xAw@zBMZABUn@M\\{@`Cm@bBa@fAO^GRCFg@vASj@Yv@c@jA]`AMXy@xBc@fAKPGHCDKHQLOJ?DAFAFIVUp@Ul@GLO^Sj@Yv@KG"
+                            },
+                            "start_location": {
+                                "lat": -23.607431,
+                                "lng": -46.670472
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.595298,
+                                        "lng": -46.6885632
+                                    },
+                                    "name": "R. Gomes de Carvalho, 1666"
+                                },
+                                "arrival_time": {
+                                    "text": "14:55",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931711
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.607431,
+                                        "lng": -46.670472
+                                    },
+                                    "name": "Av. Cotovia, 605"
+                                },
+                                "departure_time": {
+                                    "text": "14:46",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931172
+                                },
+                                "headsign": "Terminal Água Espraiada via Indianópolis",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "SPTrans",
+                                            "url": "http://www.sptrans.com.br/"
+                                        }
+                                    ],
+                                    "color": "#00a5da",
+                                    "name": "Jardim Selma / Terminal Água Espraiada via Indianópolis",
+                                    "short_name": "5106-21",
+                                    "text_color": "#ffffff",
+                                    "url": "https://www.sptrans.com.br/itinerarios/linha/?cdp=170000",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                        "name": "Ônibus",
+                                        "type": "BUS"
+                                    }
+                                },
+                                "num_stops": 9
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,3 km",
+                                "value": 316
+                            },
+                            "duration": {
+                                "text": "5 minutos",
+                                "value": 283
+                            },
+                            "end_location": {
+                                "lat": -23.5940221,
+                                "lng": -46.6912297
+                            },
+                            "html_instructions": "Ande para Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                            "polyline": {
+                                "points": "pm_oClz}{G_@fA?AIP?@A?ABDBRHcAvCM^AH?BMG?@?BCAAA?@CNFD@LKGCNADHDqAxAMNIJa@b@GBLNB@@@"
+                            },
+                            "start_location": {
+                                "lat": -23.5952948,
+                                "lng": -46.6885545
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "0,3 km",
+                                        "value": 308
+                                    },
+                                    "duration": {
+                                        "text": "5 minutos",
+                                        "value": 275
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593919,
+                                        "lng": -46.6911316
+                                    },
+                                    "html_instructions": "Siga para <b>noroeste</b> em <b>R. Gomes de Carvalho</b> em direção a <b>Alameda Raja Gabaglia</b>",
+                                    "polyline": {
+                                        "points": "pm_oClz}{G_@fA?AIP?@A?ABDBRHcAvCM^AH?BMG?@?BCAAA?@CNFD@LKGCNADHDqAxAMNIJa@b@GB"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5952948,
+                                        "lng": -46.6885545
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "8 m",
+                                        "value": 8
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 8
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5940221,
+                                        "lng": -46.6912297
+                                    },
+                                    "html_instructions": "Vire <b>à esquerda</b> em direção a <b>R. Beira Rio</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "maneuver": "turn-left",
+                                    "polyline": {
+                                        "points": "~d_oCpj~{GLNB@@@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593919,
+                                        "lng": -46.6911316
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "nj~nCfhs{G]`@e@X@MN@tA\\rDxAxA|@z@x@z@l@b@Xl@Vx@ZxAPrEBrHDzD@vDAlEAD~ABrB@pG}@lg@?Lw@`c@K`CEv@i@tLp@nDVxAh@|A~@vBrBzChJjJbGbGnHtHnFvF|GzGpEjE~FxFbBvBdApA`AvA[w@RYw@u@GHg@p@s@bAk@z@QRaBrB_@A[d@EDOP?DcAtAIPCGJJiAxAeChDmBfC]^CFi@z@{EpGs@bAG\\CVQj@o@hBaBnEiCjHcApCeArC}@a@wB_AsDaBkDrJoBtFkEvLyBfGiC|GSZONa@XALw@~BeApCMI_@dAIRCBXLqAvDALME?BCAA?CNFD@LKGETHDqAxAWZi@f@PP@@"
+            },
+            "summary": "",
+            "warnings": [
+                "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+            ],
+            "waypoint_order": []
+        },
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.5361542,
+                    "lng": -46.6326299
+                },
+                "southwest": {
+                    "lat": -23.5940011,
+                    "lng": -46.7030142
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "arrival_time": {
+                        "text": "15:27",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714933640
+                    },
+                    "departure_time": {
+                        "text": "14:25",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714929916
+                    },
+                    "distance": {
+                        "text": "18,1 km",
+                        "value": 18145
+                    },
+                    "duration": {
+                        "text": "1 hora 2 minutos",
+                        "value": 3724
+                    },
+                    "end_address": "Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                    "end_location": {
+                        "lat": -23.5940011,
+                        "lng": -46.6912257
+                    },
+                    "start_address": "Vila Mariana - Vila Mariana, São Paulo - SP, 04117-041, Brasil",
+                    "start_location": {
+                        "lat": -23.58968,
+                        "lng": -46.63443849999999
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "45 m",
+                                "value": 45
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 38
+                            },
+                            "end_location": {
+                                "lat": -23.589342,
+                                "lng": -46.634677
+                            },
+                            "html_instructions": "Ande para Vila Mariana",
+                            "polyline": {
+                                "points": "nj~nCfhs{G]`@e@L"
+                            },
+                            "start_location": {
+                                "lat": -23.58968,
+                                "lng": -46.63443849999999
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "23 m",
+                                        "value": 23
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 4
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "polyline": {
+                                        "points": "nj~nCfhs{G]`@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.58968,
+                                        "lng": -46.63443849999999
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 12
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "html_instructions": "Pegue a entrada <span class=\"location\">Vila Mariana</span>",
+                                    "polyline": {
+                                        "points": "pi~nChis{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 6
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "polyline": {
+                                        "points": "pi~nChis{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "22 m",
+                                        "value": 22
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 16
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589342,
+                                        "lng": -46.634677
+                                    },
+                                    "polyline": {
+                                        "points": "pi~nChis{Ge@L"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "6,2 km",
+                                "value": 6218
+                            },
+                            "duration": {
+                                "text": "14 minutos",
+                                "value": 840
+                            },
+                            "end_location": {
+                                "lat": -23.5367941,
+                                "lng": -46.6336531
+                            },
+                            "html_instructions": "Metrô em direção a Tucuruvi",
+                            "polyline": {
+                                "points": "jh~nCvis{G?AWCs@EyBGcAFi@Dg@Je@JWFiA`@y@b@mB`AoBfAcAj@iAl@KF{@b@wAt@i@XiB`AwAv@q@^o@VQPA@OHaAh@i@Xo@\\EBa@Tk@Z_Ad@o@\\aAj@s@b@g@Vw@`@o@`@q@^q@`@aBx@w@\\{@Vs@Bk@AiA?_ACi@Cg@Aq@G_AGC?EA{BU_BGqAOaAOoCa@kDe@cBQS?mAAQ?cDA_BAeA?aA?u@?KA}@EkKw@mL{A_Gu@mBWgAOMCqASIAYI{C}@aFoB{EyByBeAgBg@yC]mEkAEAwB{@cCeAsCgAcA{@kEkEqA_AiAk@q@_@q@KQE_B[kC?iCf@aDr@oFvAmHj@YJsDhAMDmCJyGBqB[wAU}CSoD[qEUyCIUAcBMAP"
+                            },
+                            "start_location": {
+                                "lat": -23.589342,
+                                "lng": -46.634677
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "name": "Luz"
+                                },
+                                "arrival_time": {
+                                    "text": "14:40",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714930800
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.589342,
+                                        "lng": -46.634677
+                                    },
+                                    "name": "Vila Mariana"
+                                },
+                                "departure_time": {
+                                    "text": "14:26",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714929960
+                                },
+                                "headsign": "Tucuruvi",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "Metrô de São Paulo",
+                                            "phone": "011 55 800 770 7722",
+                                            "url": "http://www.metro.sp.gov.br/"
+                                        }
+                                    ],
+                                    "color": "#285083",
+                                    "name": "Tucuruvi / Jabaquara",
+                                    "short_name": "Linha 1",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-metro.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 8
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,1 km",
+                                "value": 105
+                            },
+                            "duration": {
+                                "text": "4 minutos",
+                                "value": 214
+                            },
+                            "end_location": {
+                                "lat": -23.5362199,
+                                "lng": -46.6344719
+                            },
+                            "html_instructions": "Ande para Luz",
+                            "polyline": {
+                                "points": "|_tnChcs{GqBbD"
+                            },
+                            "start_location": {
+                                "lat": -23.5367941,
+                                "lng": -46.6336531
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 19
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "polyline": {
+                                        "points": "|_tnChcs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 133
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "polyline": {
+                                        "points": "|_tnChcs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 34
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "polyline": {
+                                        "points": "|_tnChcs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 105
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 28
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5362199,
+                                        "lng": -46.6344719
+                                    },
+                                    "polyline": {
+                                        "points": "|_tnChcs{GqBbD"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5367941,
+                                        "lng": -46.6336531
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "8,1 km",
+                                "value": 8079
+                            },
+                            "duration": {
+                                "text": "14 minutos",
+                                "value": 851
+                            },
+                            "end_location": {
+                                "lat": -23.5672661,
+                                "lng": -46.7019213
+                            },
+                            "html_instructions": "Metrô em direção a Vila Sônia",
+                            "polyline": {
+                                "points": "j|snClhs{GMJlBtCr@d@x@XvGlAvCr@~BvBdCvEbBhD|@fA`AlAxClDxBlDlBlDPd@Pd@PTt@|@BDt@`A~DhFdB`CfAbBh@lAJ^\\jAl@vBnApBdBpHVrAt@fDXdBj@`C\\hADH?@Tp@dB|DxEdKrB~E|AdDb@|@dBzD`AnBhAjBvD`GpEzFDFLNjBrCvB|CdAnHp@xBdCzEtExHzI|P`@z@FH?@@@Vl@jEbIvBdDv@xA|@bBrCvEt@jBd@pAFt@Tv@F~@DpADxBRpBbElMtClJRp@bBvFfDtLb@~EHfADtCIzDY~De@bEe@|CCLGd@ADEb@Gn@KlAQzCGv@?lC@fBBbD@bB@lB@|A@tABjDPbEJz@?@BC"
+                            },
+                            "start_location": {
+                                "lat": -23.5362199,
+                                "lng": -46.6344719
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "name": "Pinheiros"
+                                },
+                                "arrival_time": {
+                                    "text": "15:06",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932371
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5362199,
+                                        "lng": -46.6344719
+                                    },
+                                    "name": "Luz"
+                                },
+                                "departure_time": {
+                                    "text": "14:52",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931520
+                                },
+                                "headsign": "Vila Sônia",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaQuatro",
+                                            "phone": "011 55 800 770 7100",
+                                            "url": "https://www.viaquatro.com.br/"
+                                        }
+                                    ],
+                                    "color": "#f2c900",
+                                    "name": "Vila Sônia / Luz",
+                                    "short_name": "Linha 4",
+                                    "text_color": "#000000",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viaquatro.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 7
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,1 km",
+                                "value": 132
+                            },
+                            "duration": {
+                                "text": "3 minutos",
+                                "value": 176
+                            },
+                            "end_location": {
+                                "lat": -23.5666204,
+                                "lng": -46.7030142
+                            },
+                            "html_instructions": "Ande para Pinheiros",
+                            "polyline": {
+                                "points": "l~ynC~m`|GaCxE"
+                            },
+                            "start_location": {
+                                "lat": -23.5672661,
+                                "lng": -46.7019213
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 10
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "polyline": {
+                                        "points": "l~ynC~m`|G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 88
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "polyline": {
+                                        "points": "l~ynC~m`|G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 132
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 78
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5666204,
+                                        "lng": -46.7030142
+                                    },
+                                    "polyline": {
+                                        "points": "l~ynC~m`|GaCxE"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3,4 km",
+                                "value": 3369
+                            },
+                            "duration": {
+                                "text": "6 minutos",
+                                "value": 360
+                            },
+                            "end_location": {
+                                "lat": -23.593303,
+                                "lng": -46.6927449
+                            },
+                            "html_instructions": "Trem em direção a Mendes-Vila Natal",
+                            "polyline": {
+                                "points": "jzynCxt`|GACdSmFbHwBl@UTKRKPKRKNKPMRQNONMNOPULQLQLQbAoBNYLWNYNWNWPWTYNSBE`BkBfCoCr@o@ZYZYZUZU\\W\\S\\UZS\\SZQ\\Q\\Qjd@mTlAk@hAg@v@_@t@Y~@[x@Ut@O~@QLAp@I`AG`AElAE~@AfA@dAF|@HfALdAThTlFbAT^H^F^F`@DJ@AF"
+                            },
+                            "start_location": {
+                                "lat": -23.5666204,
+                                "lng": -46.7030142
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "name": "Vila Olímpia"
+                                },
+                                "arrival_time": {
+                                    "text": "15:22",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714933320
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5666204,
+                                        "lng": -46.7030142
+                                    },
+                                    "name": "Pinheiros"
+                                },
+                                "departure_time": {
+                                    "text": "15:16",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932960
+                                },
+                                "headsign": "Mendes-Vila Natal",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaMobilidade",
+                                            "phone": "011 55 800 770 7106",
+                                            "url": "https://www.viamobilidade.com.br/"
+                                        }
+                                    ],
+                                    "color": "#00aa9e",
+                                    "name": "Mendes-Vila Natal / Osasco",
+                                    "short_name": "Linha 9",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viamobilidade.png",
+                                        "name": "Trem",
+                                        "type": "HEAVY_RAIL"
+                                    }
+                                },
+                                "num_stops": 3
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,2 km",
+                                "value": 197
+                            },
+                            "duration": {
+                                "text": "5 minutos",
+                                "value": 320
+                            },
+                            "end_location": {
+                                "lat": -23.5940011,
+                                "lng": -46.6912257
+                            },
+                            "html_instructions": "Ande para Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                            "polyline": {
+                                "points": "ba_oCrt~{GdA}BHWBG?A?A?A?A?AAAAAa@MAA?C?ABGJOJMbAeA"
+                            },
+                            "start_location": {
+                                "lat": -23.593303,
+                                "lng": -46.6927449
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 139
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "polyline": {
+                                        "points": "ba_oCrt~{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 72
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "polyline": {
+                                        "points": "ba_oCrt~{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "75 m",
+                                        "value": 75
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 14
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5936536,
+                                        "lng": -46.6921064
+                                    },
+                                    "html_instructions": "Pegue a saída <span class=\"location\">Vila Olímpia</span>",
+                                    "polyline": {
+                                        "points": "ba_oCrt~{GdA}B"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 122
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 95
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5940011,
+                                        "lng": -46.6912257
+                                    },
+                                    "html_instructions": "Siga para <b>este</b> em <b>R. Beira Rio</b> em direção a <b>R. Beira Rio</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "polyline": {
+                                        "points": "rc_oC|o~{GBG?A?A?A?A?AAAAAa@MAA?C?ABGJOJMbAeA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5937043,
+                                        "lng": -46.6919928
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "nj~nCfhs{G]`@e@LWEmDMmBLmAVaBh@gDdBsDrBiFnC}GrDo@VQPQJ{C`BsCzAmEdCkEdCyCvA{@Vs@BuBAiBGyAIcAGaCW_BGqAOqEq@oGw@wGC}GAiAGkKw@mL{AmJmAuAS{AUuDgAaFoB{EyByBeAgBg@yC]mEkA}B}@wGmCcA{@kEkEqA_AiAk@q@_@q@KQE_B[kC?kHzAoFvAmHj@mEtAMDmCJyGBiEq@mIo@qEUyCIyBOAPqBbDMJlBtCr@d@x@XvGlAvCr@~BvBdCvEbBhD|@fAzEzFxBlDlBlDb@jA`CzCdHjJfAbBh@lAh@jBl@vBnApB|BdKt@fDXdBhAjEDJTp@dB|DxEdKrB~E`CbFfDjH`GlJvEbGxBbDvB|CdAnHp@xBdCzEtExHzI|Ph@dA@BbFpJvBdDv@xA|@bBrCvEzA|DFt@Tv@LpCDxBRpBxIzXvBhHfDtLb@~EHfADtCIzDY~De@bEe@|CKr@[fDYrE@tFHrMD`GPbEJz@BAaCxEACdSmFbHwBbAa@hAo@dA}@|@iAnBsD`AaBjC_DzD_Ev@s@rBwArBoAth@}V`CgAtBu@nBe@lASrBQnCKfC?bCPfALdATlVbG`C^J@AFnAuCBMCGc@O?ENWnAsA"
+            },
+            "summary": "",
+            "warnings": [
+                "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+            ],
+            "waypoint_order": []
+        },
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.5550236,
+                    "lng": -46.630357
+                },
+                "southwest": {
+                    "lat": -23.5940011,
+                    "lng": -46.7030142
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "arrival_time": {
+                        "text": "15:27",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714933640
+                    },
+                    "departure_time": {
+                        "text": "14:23",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714929782
+                    },
+                    "distance": {
+                        "text": "14,3 km",
+                        "value": 14332
+                    },
+                    "duration": {
+                        "text": "1 hora 4 minutos",
+                        "value": 3858
+                    },
+                    "end_address": "Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                    "end_location": {
+                        "lat": -23.5940011,
+                        "lng": -46.6912257
+                    },
+                    "start_address": "Vila Mariana - Vila Mariana, São Paulo - SP, 04117-041, Brasil",
+                    "start_location": {
+                        "lat": -23.5896374,
+                        "lng": -46.6344482
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0,7 km",
+                                "value": 742
+                            },
+                            "duration": {
+                                "text": "12 minutos",
+                                "value": 718
+                            },
+                            "end_location": {
+                                "lat": -23.5924287,
+                                "lng": -46.6305698
+                            },
+                            "html_instructions": "Ande para Chácara Klabin",
+                            "polyline": {
+                                "points": "fj~nChhs{GAG?CCCBS?CBB?EI[?MAICy@AMCq@AKIADMH?Aa@A[AYAMCu@AWCaACS?Q?S?a@J@P@hBN\\@A?B?P@@@d@FP?h@Ff@FJ?F?HADARMNOPIj@g@XYV[LKzAaBLONUq@h@"
+                            },
+                            "start_location": {
+                                "lat": -23.5896374,
+                                "lng": -46.6344482
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "0,3 km",
+                                        "value": 288
+                                    },
+                                    "duration": {
+                                        "text": "4 minutos",
+                                        "value": 217
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5894476,
+                                        "lng": -46.6315428
+                                    },
+                                    "html_instructions": "Siga para <b>este</b> em <b>Rua Dr. Pinto Ferraz</b> em direção a <b>R. Cornélio de Paula Júnior</b>",
+                                    "polyline": {
+                                        "points": "fj~nChhs{GAG?CCCBS?CBB?EI[?MAICy@AMCq@AKIADMH?Aa@A[AYAMCu@AWCaACS?Q?S?a@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5896374,
+                                        "lng": -46.6344482
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,4 km",
+                                        "value": 419
+                                    },
+                                    "duration": {
+                                        "text": "5 minutos",
+                                        "value": 297
+                                    },
+                                    "end_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "html_instructions": "Vire <b>à direita</b> em direção a <b>Rua Vergueiro</b><div style=\"font-size:0.9em\">Passe por Imobiliária Bellintani (à direita em 240 m)</div><div style=\"font-size:0.9em\">O destino encontra-se à esquerda</div>",
+                                    "maneuver": "turn-right",
+                                    "polyline": {
+                                        "points": "`i~nCbvr{GJ@P@hBN\\@A?B?P@@@d@FP?h@Ff@FJ?F?HADARMNOPIj@g@XYV[LKzAaBLONU"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5894476,
+                                        "lng": -46.6315428
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "3 minutos",
+                                        "value": 156
+                                    },
+                                    "end_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "html_instructions": "Pegue a entrada <span class=\"location\">Chácara Klabin</span>",
+                                    "polyline": {
+                                        "points": "f}~nCvnr{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 9
+                                    },
+                                    "end_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "polyline": {
+                                        "points": "f}~nCvnr{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "35 m",
+                                        "value": 35
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 39
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5924287,
+                                        "lng": -46.6305698
+                                    },
+                                    "polyline": {
+                                        "points": "f}~nCvnr{Gq@h@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "5,1 km",
+                                "value": 5122
+                            },
+                            "duration": {
+                                "text": "11 minutos",
+                                "value": 660
+                            },
+                            "end_location": {
+                                "lat": -23.5574818,
+                                "lng": -46.6609024
+                            },
+                            "html_instructions": "Metrô em direção a Vila Madalena",
+                            "polyline": {
+                                "points": "t{~nC`pr{GJLgC|CaBrBqBhByDtCit@p`@eRbKkAd@sA\\eAFiCDyBHsAC]?yAC{ANwAT}CnAaBlAkApBq@pBg@hAmB`DkNfSoEnGmSzW{FlHqFdH{Zl^AA"
+                            },
+                            "start_location": {
+                                "lat": -23.5924287,
+                                "lng": -46.6305698
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5574818,
+                                        "lng": -46.6609024
+                                    },
+                                    "name": "Consolação"
+                                },
+                                "arrival_time": {
+                                    "text": "14:46",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931160
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5924287,
+                                        "lng": -46.6305698
+                                    },
+                                    "name": "Chácara Klabin"
+                                },
+                                "departure_time": {
+                                    "text": "14:35",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714930500
+                                },
+                                "headsign": "Vila Madalena",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "Metrô de São Paulo",
+                                            "phone": "011 55 800 770 7722",
+                                            "url": "http://www.metro.sp.gov.br/"
+                                        }
+                                    ],
+                                    "color": "#006d58",
+                                    "name": "Vila Madalena / Vila Prudente",
+                                    "short_name": "Linha 2",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-metro.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 5
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,3 km",
+                                "value": 303
+                            },
+                            "duration": {
+                                "text": "5 minutos",
+                                "value": 310
+                            },
+                            "end_location": {
+                                "lat": -23.5550236,
+                                "lng": -46.6621933
+                            },
+                            "html_instructions": "Ande para Paulista",
+                            "polyline": {
+                                "points": "faxnCrmx{GkN`G"
+                            },
+                            "start_location": {
+                                "lat": -23.5574818,
+                                "lng": -46.6609024
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "3 minutos",
+                                        "value": 165
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5574818,
+                                        "lng": -46.6609024
+                                    },
+                                    "polyline": {
+                                        "points": "faxnCrmx{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5574818,
+                                        "lng": -46.6609024
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,3 km",
+                                        "value": 303
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 145
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5550236,
+                                        "lng": -46.6621933
+                                    },
+                                    "polyline": {
+                                        "points": "faxnCrmx{GkN`G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5574818,
+                                        "lng": -46.6609024
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "4,5 km",
+                                "value": 4467
+                            },
+                            "duration": {
+                                "text": "8 minutos",
+                                "value": 466
+                            },
+                            "end_location": {
+                                "lat": -23.5672661,
+                                "lng": -46.7019213
+                            },
+                            "html_instructions": "Metrô em direção a Vila Sônia",
+                            "polyline": {
+                                "points": "zqwnCtux{GJILNjBrCvB|CdAnHp@xBdCzEtExHzI|P`@z@FH?@@@Vl@jEbIvBdDv@xA|@bBrCvEt@jBd@pAFt@Tv@F~@DpADxBRpBbElMtClJRp@bBvFfDtLb@~EHfADtCIzDY~De@bEe@|CCLGd@ADEb@Gn@KlAQzCGv@?lC@fBBbD@bB@lB@|A@tABjDPbEJz@?@BC"
+                            },
+                            "start_location": {
+                                "lat": -23.5550236,
+                                "lng": -46.6621933
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "name": "Pinheiros"
+                                },
+                                "arrival_time": {
+                                    "text": "15:06",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932371
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5550236,
+                                        "lng": -46.6621933
+                                    },
+                                    "name": "Paulista"
+                                },
+                                "departure_time": {
+                                    "text": "14:58",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931905
+                                },
+                                "headsign": "Vila Sônia",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaQuatro",
+                                            "phone": "011 55 800 770 7100",
+                                            "url": "https://www.viaquatro.com.br/"
+                                        }
+                                    ],
+                                    "color": "#f2c900",
+                                    "name": "Vila Sônia / Luz",
+                                    "short_name": "Linha 4",
+                                    "text_color": "#000000",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viaquatro.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 4
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,1 km",
+                                "value": 132
+                            },
+                            "duration": {
+                                "text": "3 minutos",
+                                "value": 176
+                            },
+                            "end_location": {
+                                "lat": -23.5666204,
+                                "lng": -46.7030142
+                            },
+                            "html_instructions": "Ande para Pinheiros",
+                            "polyline": {
+                                "points": "l~ynC~m`|GaCxE"
+                            },
+                            "start_location": {
+                                "lat": -23.5672661,
+                                "lng": -46.7019213
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 10
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "polyline": {
+                                        "points": "l~ynC~m`|G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 88
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "polyline": {
+                                        "points": "l~ynC~m`|G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 132
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 78
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5666204,
+                                        "lng": -46.7030142
+                                    },
+                                    "polyline": {
+                                        "points": "l~ynC~m`|GaCxE"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5672661,
+                                        "lng": -46.7019213
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3,4 km",
+                                "value": 3369
+                            },
+                            "duration": {
+                                "text": "6 minutos",
+                                "value": 360
+                            },
+                            "end_location": {
+                                "lat": -23.593303,
+                                "lng": -46.6927449
+                            },
+                            "html_instructions": "Trem em direção a Mendes-Vila Natal",
+                            "polyline": {
+                                "points": "jzynCxt`|GACdSmFbHwBl@UTKRKPKRKNKPMRQNONMNOPULQLQLQbAoBNYLWNYNWNWPWTYNSBE`BkBfCoCr@o@ZYZYZUZU\\W\\S\\UZS\\SZQ\\Q\\Qjd@mTlAk@hAg@v@_@t@Y~@[x@Ut@O~@QLAp@I`AG`AElAE~@AfA@dAF|@HfALdAThTlFbAT^H^F^F`@DJ@AF"
+                            },
+                            "start_location": {
+                                "lat": -23.5666204,
+                                "lng": -46.7030142
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "name": "Vila Olímpia"
+                                },
+                                "arrival_time": {
+                                    "text": "15:22",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714933320
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5666204,
+                                        "lng": -46.7030142
+                                    },
+                                    "name": "Pinheiros"
+                                },
+                                "departure_time": {
+                                    "text": "15:16",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932960
+                                },
+                                "headsign": "Mendes-Vila Natal",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaMobilidade",
+                                            "phone": "011 55 800 770 7106",
+                                            "url": "https://www.viamobilidade.com.br/"
+                                        }
+                                    ],
+                                    "color": "#00aa9e",
+                                    "name": "Mendes-Vila Natal / Osasco",
+                                    "short_name": "Linha 9",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viamobilidade.png",
+                                        "name": "Trem",
+                                        "type": "HEAVY_RAIL"
+                                    }
+                                },
+                                "num_stops": 3
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,2 km",
+                                "value": 197
+                            },
+                            "duration": {
+                                "text": "5 minutos",
+                                "value": 320
+                            },
+                            "end_location": {
+                                "lat": -23.5940011,
+                                "lng": -46.6912257
+                            },
+                            "html_instructions": "Ande para Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                            "polyline": {
+                                "points": "ba_oCrt~{GdA}BHWBG?A?A?A?A?AAAAAa@MAA?C?ABGJOJMbAeA"
+                            },
+                            "start_location": {
+                                "lat": -23.593303,
+                                "lng": -46.6927449
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 139
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "polyline": {
+                                        "points": "ba_oCrt~{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 72
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "polyline": {
+                                        "points": "ba_oCrt~{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "75 m",
+                                        "value": 75
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 14
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5936536,
+                                        "lng": -46.6921064
+                                    },
+                                    "html_instructions": "Pegue a saída <span class=\"location\">Vila Olímpia</span>",
+                                    "polyline": {
+                                        "points": "ba_oCrt~{GdA}B"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593303,
+                                        "lng": -46.6927449
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 122
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 95
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5940011,
+                                        "lng": -46.6912257
+                                    },
+                                    "html_instructions": "Siga para <b>este</b> em <b>R. Beira Rio</b> em direção a <b>R. Beira Rio</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "polyline": {
+                                        "points": "rc_oC|o~{GBG?A?A?A?A?AAAAAa@MAA?C?ABGJOJMbAeA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5937043,
+                                        "lng": -46.6919928
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "fj~nChhs{GEOBWBB?EI[?MEcAE_AAKIADMH?C}@G}AI_C?u@\\BfCP@?jAJdBNNCb@]PIj@g@p@u@hBmB\\e@q@h@JLiFpGqBhByDtCit@p`@eRbKkAd@sA\\eAFcGNqBCyAC{ANwAT}CnAaBlAkApBq@pBg@hAmB`DkNfSoEnGmSzW{FlHqFdH{Zl^mN~FJILNbFpHdAnHp@xBdCzEtExH|JxR`@z@jEbIvBdDtB|DrCvEt@jBd@pAFt@Tv@F~@JjERpBbElMhD~KjGlTl@fHDtCIzDY~De@bEi@jDIj@MrA]hFGv@?lCDjGFdKBjDPbEJ|@BCaCxEACdSmFpImCh@WfAq@bA_Az@kApB{DfAaB|FuGfCyBtBwArBkA`j@sWlBy@xBq@tBa@~@KbCMlCGlCHdCVnVbGbB^lBVAFdA}BL_@?GACc@OAEBIV]bAeA"
+            },
+            "summary": "",
+            "warnings": [
+                "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+            ],
+            "waypoint_order": []
+        },
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.5894474,
+                    "lng": -46.630357
+                },
+                "southwest": {
+                    "lat": -23.62692,
+                    "lng": -46.6983279
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "arrival_time": {
+                        "text": "15:13",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714932784
+                    },
+                    "departure_time": {
+                        "text": "14:16",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714929363
+                    },
+                    "distance": {
+                        "text": "13,2 km",
+                        "value": 13206
+                    },
+                    "duration": {
+                        "text": "57 minutos",
+                        "value": 3421
+                    },
+                    "end_address": "Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                    "end_location": {
+                        "lat": -23.5940221,
+                        "lng": -46.6912297
+                    },
+                    "start_address": "Vila Mariana - Vila Mariana, São Paulo - SP, 04117-041, Brasil",
+                    "start_location": {
+                        "lat": -23.5896374,
+                        "lng": -46.6344482
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0,8 km",
+                                "value": 779
+                            },
+                            "duration": {
+                                "text": "12 minutos",
+                                "value": 717
+                            },
+                            "end_location": {
+                                "lat": -23.5930048,
+                                "lng": -46.6309722
+                            },
+                            "html_instructions": "Ande para Chácara Klabin",
+                            "polyline": {
+                                "points": "fj~nChhs{GAG?CCCBS?CBB?EI[?MAICy@AMCq@AKIADMH?Aa@A[AYAMCu@AWCaACS?Q?S?a@J@P@hBN\\@A?B?P@@@d@FP?h@Ff@FJ?F?HADARMNOPIj@g@XYV[LKzAaBLONU~@xB"
+                            },
+                            "start_location": {
+                                "lat": -23.5896374,
+                                "lng": -46.6344482
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "0,3 km",
+                                        "value": 288
+                                    },
+                                    "duration": {
+                                        "text": "4 minutos",
+                                        "value": 217
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5894476,
+                                        "lng": -46.6315428
+                                    },
+                                    "html_instructions": "Siga para <b>este</b> em <b>Rua Dr. Pinto Ferraz</b> em direção a <b>R. Cornélio de Paula Júnior</b>",
+                                    "polyline": {
+                                        "points": "fj~nChhs{GAG?CCCBS?CBB?EI[?MAICy@AMCq@AKIADMH?Aa@A[AYAMCu@AWCaACS?Q?S?a@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5896374,
+                                        "lng": -46.6344482
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,4 km",
+                                        "value": 419
+                                    },
+                                    "duration": {
+                                        "text": "5 minutos",
+                                        "value": 297
+                                    },
+                                    "end_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "html_instructions": "Vire <b>à direita</b> em direção a <b>Rua Vergueiro</b><div style=\"font-size:0.9em\">Passe por Imobiliária Bellintani (à direita em 240 m)</div><div style=\"font-size:0.9em\">O destino encontra-se à esquerda</div>",
+                                    "maneuver": "turn-right",
+                                    "polyline": {
+                                        "points": "`i~nCbvr{GJ@P@hBN\\@A?B?P@@@d@FP?h@Ff@FJ?F?HADARMNOPIj@g@XYV[LKzAaBLONU"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5894476,
+                                        "lng": -46.6315428
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "3 minutos",
+                                        "value": 156
+                                    },
+                                    "end_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "html_instructions": "Pegue a entrada <span class=\"location\">Chácara Klabin</span>",
+                                    "polyline": {
+                                        "points": "f}~nCvnr{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 9
+                                    },
+                                    "end_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "polyline": {
+                                        "points": "f}~nCvnr{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "72 m",
+                                        "value": 72
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 38
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5930048,
+                                        "lng": -46.6309722
+                                    },
+                                    "polyline": {
+                                        "points": "f}~nCvnr{G~@xB"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.592683,
+                                        "lng": -46.630357
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "7,6 km",
+                                "value": 7568
+                            },
+                            "duration": {
+                                "text": "13 minutos",
+                                "value": 802
+                            },
+                            "end_location": {
+                                "lat": -23.6269091,
+                                "lng": -46.6882434
+                            },
+                            "html_instructions": "Metrô em direção a Capão Redondo",
+                            "polyline": {
+                                "points": "f__oCprr{GAD`@VvAv@|A|@fAn@bB`AvBnAh@\\|A|@lAr@xCfBz@rAb@~@n@lBTfAJl@Ll@L~@Hv@FhA?T@rB@pG}@lg@?Lw@`c@K`C?FEn@YbGOpDZbBTjAVxAh@|A~@vBrBzCzDzDlDnDxCxChBhB|B~BhBhBv@x@NPbAfAlAnA|A~A|CzC~B~BnAnA`CzBjDfDrApAl@v@t@~@Z`@h@n@j@x@T\\b@n@hA~AXx@x@pBnAdDl@zA^~Ad@rBl@dCz@pD\\xA^~AVhA\\`BVhARpAb@zAbAvCr@fAh@f@XVdClB|DzCvErDnB|A~CbCZTj@d@B@vCdBdDlBlAp@bDjB`Al@vCpBpA|@lD`C`C~ArCnBl@`@dDxBvA`A\\TAB"
+                            },
+                            "start_location": {
+                                "lat": -23.5930048,
+                                "lng": -46.6309722
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.6269091,
+                                        "lng": -46.6882434
+                                    },
+                                    "name": "Brooklin"
+                                },
+                                "arrival_time": {
+                                    "text": "14:41",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714930882
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5930048,
+                                        "lng": -46.6309722
+                                    },
+                                    "name": "Chácara Klabin"
+                                },
+                                "departure_time": {
+                                    "text": "14:28",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714930080
+                                },
+                                "headsign": "Capão Redondo",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaMobilidade",
+                                            "phone": "011 55 800 770 7106",
+                                            "url": "https://www.viamobilidade.com.br/"
+                                        }
+                                    ],
+                                    "color": "#7e57a2",
+                                    "name": "Capão Redondo / Chácara Klabin",
+                                    "short_name": "Linha 5",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viamobilidade.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 7
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,1 km",
+                                "value": 147
+                            },
+                            "duration": {
+                                "text": "5 minutos",
+                                "value": 308
+                            },
+                            "end_location": {
+                                "lat": -23.6259694,
+                                "lng": -46.6874097
+                            },
+                            "html_instructions": "Ande para Estação de Transferência Santo Amaro/Brooklin",
+                            "polyline": {
+                                "points": "dseoCnx}{GyAkAWMVe@iAs@EJEKIJA@"
+                            },
+                            "start_location": {
+                                "lat": -23.6269091,
+                                "lng": -46.6882434
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 38
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6269091,
+                                        "lng": -46.6882434
+                                    },
+                                    "polyline": {
+                                        "points": "dseoCnx}{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6269091,
+                                        "lng": -46.6882434
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 10
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6269091,
+                                        "lng": -46.6882434
+                                    },
+                                    "polyline": {
+                                        "points": "dseoCnx}{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6269091,
+                                        "lng": -46.6882434
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "63 m",
+                                        "value": 63
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 140
+                                    },
+                                    "end_location": {
+                                        "lat": -23.62646,
+                                        "lng": -46.68786
+                                    },
+                                    "html_instructions": "Pegue a saída <span class=\"location\">Brooklin</span>",
+                                    "polyline": {
+                                        "points": "dseoCnx}{GyAkA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6269091,
+                                        "lng": -46.6882434
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "31 m",
+                                        "value": 31
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 28
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6264552,
+                                        "lng": -46.6875967
+                                    },
+                                    "html_instructions": "Siga para <b>sudeste</b> em <b>Av. Roque Petroni Júnior</b> em direção a <b>Av. Santo Amaro</b>",
+                                    "polyline": {
+                                        "points": "roeoCtu}{GVe@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6263411,
+                                        "lng": -46.6877933
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "53 m",
+                                        "value": 53
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 92
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6259694,
+                                        "lng": -46.6874097
+                                    },
+                                    "html_instructions": "Atravesse a estrada<div style=\"font-size:0.9em\">O destino encontra-se à esquerda</div>",
+                                    "polyline": {
+                                        "points": "jpeoCnt}{GiAs@EJEKIJA@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6264552,
+                                        "lng": -46.6875967
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "4,5 km",
+                                "value": 4476
+                            },
+                            "duration": {
+                                "text": "17 minutos",
+                                "value": 990
+                            },
+                            "end_location": {
+                                "lat": -23.5942032,
+                                "lng": -46.6898675
+                            },
+                            "html_instructions": "Ônibus em direção a Terminal Pinheiros via Berrini",
+                            "polyline": {
+                                "points": "|meoCtt}{GECYh@MVKRGPGPGZCLADAF?F?H@lA@r@DzA@R@XBfBBdA@H?N?R?V?NABATCNCNCPCLK`@Mf@Kd@GRI\\IXKXYz@CDUj@?@KVM\\O\\Wt@Sf@{@xBSd@}@xBEJO`@Q`@MNGHKJKLMLKJOLSPQLMJOLQLEDMJwAjASLe@^YTc@ZQNgAx@IFGBCBC@KBKDG@K@_@BM?MAKAm@Me@OiAYgBe@cASUGOGaAW{A_@cASa@Mo@Qq@S_AWiBc@YIc@Ki@OmFyAQCc@Ko@QyAe@MC[Go@QICyA_@QEiBe@u@Ss@UQGu@QkA]IAYIOE]IyA_@gBi@eCm@[IwC{@_Ck@w@Og@MYGe@MICQEiA]QG{Aa@oBi@gD{@_@KKCUG]IeAY_@IaAWo@MuBm@{@SAAsAYc@M[IEA{@Sm@QOEC?QEYGWEIAC?SEO?G?M?UBOBYHoA^IBK@K@K@E@EBKBYF_@DI@WB?@]IOA@Q?E?E?EG@A?A?AAA?GCSGe@YMGMCK?G?O?U\\UAC?C?MCC?c@Gg@KGAQCo@U]Kc@QcA_@KGIGKISKGGu@g@IL"
+                            },
+                            "start_location": {
+                                "lat": -23.6260701,
+                                "lng": -46.6876307
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5942032,
+                                        "lng": -46.6898675
+                                    },
+                                    "name": "Gomes de Carvalho B/C"
+                                },
+                                "arrival_time": {
+                                    "text": "15:09",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932582
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.6260701,
+                                        "lng": -46.6876307
+                                    },
+                                    "name": "Estação de Transferência Santo Amaro/Brooklin"
+                                },
+                                "departure_time": {
+                                    "text": "14:53",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931592
+                                },
+                                "headsign": "Terminal Pinheiros via Berrini",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "SPTrans",
+                                            "url": "http://www.sptrans.com.br/"
+                                        }
+                                    ],
+                                    "color": "#9d0a0f",
+                                    "name": "Terminal Santo Amaro / Terminal Pinheiros via Berrini",
+                                    "short_name": "709M-10",
+                                    "text_color": "#ffffff",
+                                    "url": "https://www.sptrans.com.br/itinerarios/linha/?cdp=170384",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                        "name": "Ônibus",
+                                        "type": "BUS"
+                                    }
+                                },
+                                "num_stops": 7
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,2 km",
+                                "value": 236
+                            },
+                            "duration": {
+                                "text": "3 minutos",
+                                "value": 202
+                            },
+                            "end_location": {
+                                "lat": -23.5940221,
+                                "lng": -46.6912297
+                            },
+                            "html_instructions": "Ande para Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                            "polyline": {
+                                "points": "ne_oCja~{Gl@`@t@f@BBBBJFLHB@@LKGCNADHDqAxAMNIJa@b@GBLNB@@@"
+                            },
+                            "start_location": {
+                                "lat": -23.5940042,
+                                "lng": -46.6896611
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "94 m",
+                                        "value": 94
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 73
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5946905,
+                                        "lng": -46.6901708
+                                    },
+                                    "html_instructions": "Siga para <b>sudoeste</b> em <b>R. Funchal</b> em direção a <b>R. Gomes de Carvalho</b>",
+                                    "polyline": {
+                                        "points": "ne_oCja~{Gl@`@t@f@BBBBJFLHB@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5940042,
+                                        "lng": -46.6896611
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 134
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 121
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593919,
+                                        "lng": -46.6911316
+                                    },
+                                    "html_instructions": "Vire <b>à direita</b> em direção a <b>R. Gomes de Carvalho</b>",
+                                    "maneuver": "turn-right",
+                                    "polyline": {
+                                        "points": "xi_oCpd~{G@LKGCNADHDqAxAMNIJa@b@GB"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5946905,
+                                        "lng": -46.6901708
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "8 m",
+                                        "value": 8
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 8
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5940221,
+                                        "lng": -46.6912297
+                                    },
+                                    "html_instructions": "Vire <b>à esquerda</b> em direção a <b>R. Beira Rio</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "maneuver": "turn-left",
+                                    "polyline": {
+                                        "points": "~d_oCpj~{GLNB@@@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593919,
+                                        "lng": -46.6911316
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "fj~nChhs{GEOBWBB?EI[?MEcAE_AAKIADMH?C}@G}AI_C?u@\\BfCP@?jAJdBNNCb@]PIj@g@p@u@hBmB\\e@~@xBADxBnA`K~FnJvFz@rAb@~@n@lBTfAXzAVvBF~A@rB@pG}@lg@?Lw@`c@K`CEv@i@tLp@nDVxAh@|A~@vBrBzChJjJbGbGnHtHnFvF|GzGpEjE~FxFbBvBdApA`AvAb@n@hA~AXx@hCvGl@zA^~ArAxFxAjGlBtIRpAb@zAbAvCr@fAbA~@bIhGbOjLn@f@|HrEpF|CxE~CtOnKhIrFAByAkAWMVe@iAs@EJEKKLRj@ECg@`ASd@U`A?fBJ|DHfEA~@MfAi@|Bg@dBs@nBaAhCaD`IUl@_@p@m@p@qB`BuFlE}AhAc@Lk@D[Ay@OoBi@kDy@e@O}Cw@eBa@kGaBuI_Cu@OiCw@cBa@kG_BgEmAuL}CwGgB_B]{A_@{Ae@kEkAiFsAeEeAeD{@}@UyCs@}Bk@mAUo@EM?e@F_Cn@c@HoARWDm@K@c@M?]Ks@a@YCW?U\\UAG?QCeBYuDsAu@e@}@o@ILg@i@l@`@x@j@`@V@LKGETHDqAxAWZi@f@RR"
+            },
+            "summary": "",
+            "warnings": [
+                "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+            ],
+            "waypoint_order": []
+        },
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.5893388,
+                    "lng": -46.63443849999999
+                },
+                "southwest": {
+                    "lat": -23.6098744,
+                    "lng": -46.6912297
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "arrival_time": {
+                        "text": "15:33",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714934011
+                    },
+                    "departure_time": {
+                        "text": "14:48",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714931296
+                    },
+                    "distance": {
+                        "text": "8,2 km",
+                        "value": 8213
+                    },
+                    "duration": {
+                        "text": "45 minutos",
+                        "value": 2715
+                    },
+                    "end_address": "Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                    "end_location": {
+                        "lat": -23.5940221,
+                        "lng": -46.6912297
+                    },
+                    "start_address": "Vila Mariana - Vila Mariana, São Paulo - SP, 04117-041, Brasil",
+                    "start_location": {
+                        "lat": -23.58968,
+                        "lng": -46.63443849999999
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "48 m",
+                                "value": 48
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 44
+                            },
+                            "end_location": {
+                                "lat": -23.5893388,
+                                "lng": -46.6347371
+                            },
+                            "html_instructions": "Ande para Vila Mariana",
+                            "polyline": {
+                                "points": "nj~nCfhs{G]`@e@X"
+                            },
+                            "start_location": {
+                                "lat": -23.58968,
+                                "lng": -46.63443849999999
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "23 m",
+                                        "value": 23
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 4
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "polyline": {
+                                        "points": "nj~nCfhs{G]`@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.58968,
+                                        "lng": -46.63443849999999
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 12
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "html_instructions": "Pegue a entrada <span class=\"location\">Vila Mariana</span>",
+                                    "polyline": {
+                                        "points": "pi~nChis{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 6
+                                    },
+                                    "end_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "polyline": {
+                                        "points": "pi~nChis{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "25 m",
+                                        "value": 25
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 22
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5893388,
+                                        "lng": -46.6347371
+                                    },
+                                    "polyline": {
+                                        "points": "pi~nChis{Ge@X"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.589534,
+                                        "lng": -46.634607
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1,1 km",
+                                "value": 1076
+                            },
+                            "duration": {
+                                "text": "2 minutos",
+                                "value": 120
+                            },
+                            "end_location": {
+                                "lat": -23.5984416,
+                                "lng": -46.6367003
+                            },
+                            "html_instructions": "Metrô em direção a Jabaquara",
+                            "polyline": {
+                                "points": "jh~nCbjs{G@MN@\\Hv@RxAn@xAh@f@Zp@`@z@x@z@l@b@Xl@Vx@ZxAPbB@nB@bCBnD@lA@lB?|AAxA?bBA~@?f@?@?AL"
+                            },
+                            "start_location": {
+                                "lat": -23.5893388,
+                                "lng": -46.6347371
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "name": "Santa Cruz"
+                                },
+                                "arrival_time": {
+                                    "text": "14:51",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931460
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5893388,
+                                        "lng": -46.6347371
+                                    },
+                                    "name": "Vila Mariana"
+                                },
+                                "departure_time": {
+                                    "text": "14:49",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931340
+                                },
+                                "headsign": "Jabaquara",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "Metrô de São Paulo",
+                                            "phone": "011 55 800 770 7722",
+                                            "url": "http://www.metro.sp.gov.br/"
+                                        }
+                                    ],
+                                    "color": "#285083",
+                                    "name": "Tucuruvi / Jabaquara",
+                                    "short_name": "Linha 1",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-metro.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 1
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "41 m",
+                                "value": 41
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 86
+                            },
+                            "end_location": {
+                                "lat": -23.5984819,
+                                "lng": -46.63710880000001
+                            },
+                            "html_instructions": "Ande para Santa Cruz",
+                            "polyline": {
+                                "points": "fa`oCjvs{GFpA"
+                            },
+                            "start_location": {
+                                "lat": -23.5984416,
+                                "lng": -46.6367003
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 16
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "polyline": {
+                                        "points": "fa`oCjvs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 40
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "polyline": {
+                                        "points": "fa`oCjvs{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "41 m",
+                                        "value": 41
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 30
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5984819,
+                                        "lng": -46.63710880000001
+                                    },
+                                    "polyline": {
+                                        "points": "fa`oCjvs{GFpA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5984416,
+                                        "lng": -46.6367003
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3,8 km",
+                                "value": 3788
+                            },
+                            "duration": {
+                                "text": "7 minutos",
+                                "value": 442
+                            },
+                            "end_location": {
+                                "lat": -23.6098744,
+                                "lng": -46.6687187
+                            },
+                            "html_instructions": "Metrô em direção a Capão Redondo",
+                            "polyline": {
+                                "points": "na`oC|xs{G@?@rB@pG}@lg@?Lw@`c@K`C?FEn@YbGOpDZbBTjAVxAh@|A~@vBrBzCzDzDlDnDxCxChBhB|B~BhBhBv@x@NPbAfAlAnA|A~A|CzC~B~BnAnA`CzBjDfDrApAl@v@t@~@Z`@h@n@j@x@T\\"
+                            },
+                            "start_location": {
+                                "lat": -23.5984819,
+                                "lng": -46.63710880000001
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "name": "Eucaliptos"
+                                },
+                                "arrival_time": {
+                                    "text": "15:07",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932426
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5984819,
+                                        "lng": -46.63710880000001
+                                    },
+                                    "name": "Santa Cruz"
+                                },
+                                "departure_time": {
+                                    "text": "14:59",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714931984
+                                },
+                                "headsign": "Capão Redondo",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "ViaMobilidade",
+                                            "phone": "011 55 800 770 7106",
+                                            "url": "https://www.viamobilidade.com.br/"
+                                        }
+                                    ],
+                                    "color": "#7e57a2",
+                                    "name": "Capão Redondo / Chácara Klabin",
+                                    "short_name": "Linha 5",
+                                    "text_color": "#ffffff",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-viamobilidade.png",
+                                        "name": "Metrô",
+                                        "type": "SUBWAY"
+                                    }
+                                },
+                                "num_stops": 4
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,4 km",
+                                "value": 431
+                            },
+                            "duration": {
+                                "text": "8 minutos",
+                                "value": 484
+                            },
+                            "end_location": {
+                                "lat": -23.6074479,
+                                "lng": -46.6705063
+                            },
+                            "html_instructions": "Ande para Av. Cotovia, 605",
+                            "polyline": {
+                                "points": "thboCn~y{G[w@RYw@u@GHGJ_@d@GHk@x@m@x@@@ORA?oA|AQT_@A[d@EF?ACBKLAB@@]d@e@n@IP"
+                            },
+                            "start_location": {
+                                "lat": -23.6098744,
+                                "lng": -46.6687187
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 20
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "polyline": {
+                                        "points": "thboCn~y{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "1 m",
+                                        "value": 0
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 4
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "polyline": {
+                                        "points": "thboCn~y{G"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "32 m",
+                                        "value": 32
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 132
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6097302,
+                                        "lng": -46.6684381
+                                    },
+                                    "html_instructions": "Pegue a saída <span class=\"location\">Eucaliptos</span>",
+                                    "polyline": {
+                                        "points": "thboCn~y{G[w@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098744,
+                                        "lng": -46.6687187
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "48 m",
+                                        "value": 48
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 38
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6095482,
+                                        "lng": -46.66804140000001
+                                    },
+                                    "html_instructions": "Siga para <b>nordeste</b> em <b>Av. Ibirapuera</b> em direção a <b>Av. Cotovia</b>",
+                                    "polyline": {
+                                        "points": "lhboC|{y{Gw@u@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6098325,
+                                        "lng": -46.66830849999999
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,4 km",
+                                        "value": 351
+                                    },
+                                    "duration": {
+                                        "text": "5 minutos",
+                                        "value": 290
+                                    },
+                                    "end_location": {
+                                        "lat": -23.6074479,
+                                        "lng": -46.6705063
+                                    },
+                                    "html_instructions": "Vire <b>à esquerda</b> em direção a <b>Av. Cotovia</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "maneuver": "turn-left",
+                                    "polyline": {
+                                        "points": "tfboCfzy{GGHGJ_@d@GHk@x@m@x@@@ORA?oA|AQT_@A[d@EF?ACBKLAB@@]d@e@n@IP"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.6095482,
+                                        "lng": -46.66804140000001
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2,5 km",
+                                "value": 2513
+                            },
+                            "duration": {
+                                "text": "11 minutos",
+                                "value": 648
+                            },
+                            "end_location": {
+                                "lat": -23.595298,
+                                "lng": -46.6885632
+                            },
+                            "html_instructions": "Ônibus em direção a Terminal Água Espraiada via Indianópolis",
+                            "polyline": {
+                                "points": "lyaoCliz{GJJiAxAkA~Ay@hACB{@jAEFg@n@]^CFCFe@r@qAbBoAbBKLm@z@i@r@INCFCTCVQj@Y|@Uj@_@dAO`@[x@Ul@Wp@ABM^CHUj@Yt@Up@Wv@o@hBSf@eArC}@a@sAm@c@QyAo@yAq@_@bA}@bCWp@u@xBg@xAw@zBMZABUn@M\\{@`Cm@bBa@fAO^GRCFg@vASj@Yv@c@jA]`AMXy@xBc@fAKPGHCDKHQLOJ?DAFAFIVUp@Ul@GLO^Sj@Yv@KG"
+                            },
+                            "start_location": {
+                                "lat": -23.607431,
+                                "lng": -46.670472
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.595298,
+                                        "lng": -46.6885632
+                                    },
+                                    "name": "R. Gomes de Carvalho, 1666"
+                                },
+                                "arrival_time": {
+                                    "text": "15:28",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714933728
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.607431,
+                                        "lng": -46.670472
+                                    },
+                                    "name": "Av. Cotovia, 605"
+                                },
+                                "departure_time": {
+                                    "text": "15:19",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714933187
+                                },
+                                "headsign": "Terminal Água Espraiada via Indianópolis",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "SPTrans",
+                                            "url": "http://www.sptrans.com.br/"
+                                        }
+                                    ],
+                                    "color": "#00a5da",
+                                    "name": "Jardim Selma / Terminal Água Espraiada via Indianópolis",
+                                    "short_name": "5106-21",
+                                    "text_color": "#ffffff",
+                                    "url": "https://www.sptrans.com.br/itinerarios/linha/?cdp=170000",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                        "name": "Ônibus",
+                                        "type": "BUS"
+                                    }
+                                },
+                                "num_stops": 9
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,3 km",
+                                "value": 316
+                            },
+                            "duration": {
+                                "text": "5 minutos",
+                                "value": 283
+                            },
+                            "end_location": {
+                                "lat": -23.5940221,
+                                "lng": -46.6912297
+                            },
+                            "html_instructions": "Ande para Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                            "polyline": {
+                                "points": "pm_oClz}{G_@fA?AIP?@A?ABDBRHcAvCM^AH?BMG?@?BCAAA?@CNFD@LKGCNADHDqAxAMNIJa@b@GBLNB@@@"
+                            },
+                            "start_location": {
+                                "lat": -23.5952948,
+                                "lng": -46.6885545
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "0,3 km",
+                                        "value": 308
+                                    },
+                                    "duration": {
+                                        "text": "5 minutos",
+                                        "value": 275
+                                    },
+                                    "end_location": {
+                                        "lat": -23.593919,
+                                        "lng": -46.6911316
+                                    },
+                                    "html_instructions": "Siga para <b>noroeste</b> em <b>R. Gomes de Carvalho</b> em direção a <b>Alameda Raja Gabaglia</b>",
+                                    "polyline": {
+                                        "points": "pm_oClz}{G_@fA?AIP?@A?ABDBRHcAvCM^AH?BMG?@?BCAAA?@CNFD@LKGCNADHDqAxAMNIJa@b@GB"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5952948,
+                                        "lng": -46.6885545
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "8 m",
+                                        "value": 8
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 8
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5940221,
+                                        "lng": -46.6912297
+                                    },
+                                    "html_instructions": "Vire <b>à esquerda</b> em direção a <b>R. Beira Rio</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "maneuver": "turn-left",
+                                    "polyline": {
+                                        "points": "~d_oCpj~{GLNB@@@"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.593919,
+                                        "lng": -46.6911316
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "nj~nCfhs{G]`@e@X@MN@tA\\rDxAxA|@z@x@z@l@b@Xl@Vx@ZxAPrEBrHDzD@vDAlEAD~ABrB@pG}@lg@?Lw@`c@K`CEv@i@tLp@nDVxAh@|A~@vBrBzChJjJbGbGnHtHnFvF|GzGpEjE~FxFbBvBdApA`AvA[w@RYw@u@GHg@p@s@bAk@z@QRaBrB_@A[d@EDOP?DcAtAIPCGJJiAxAeChDmBfC]^CFi@z@{EpGs@bAG\\CVQj@o@hBaBnEiCjHcApCeArC}@a@wB_AsDaBkDrJoBtFkEvLyBfGiC|GSZONa@XALw@~BeApCMI_@dAIRCBXLqAvDALME?BCAA?CNFD@LKGETHDqAxAWZi@f@PP@@"
+            },
+            "summary": "",
+            "warnings": [
+                "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+            ],
+            "waypoint_order": []
+        },
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.5792966,
+                    "lng": -46.6344482
+                },
+                "southwest": {
+                    "lat": -23.5960951,
+                    "lng": -46.6912455
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "arrival_time": {
+                        "text": "15:07",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714932467
+                    },
+                    "departure_time": {
+                        "text": "14:28",
+                        "time_zone": "America/Sao_Paulo",
+                        "value": 1714930136
+                    },
+                    "distance": {
+                        "text": "8,2 km",
+                        "value": 8214
+                    },
+                    "duration": {
+                        "text": "39 minutos",
+                        "value": 2331
+                    },
+                    "end_address": "Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                    "end_location": {
+                        "lat": -23.5940221,
+                        "lng": -46.6912297
+                    },
+                    "start_address": "Vila Mariana - Vila Mariana, São Paulo - SP, 04117-041, Brasil",
+                    "start_location": {
+                        "lat": -23.5896374,
+                        "lng": -46.6344482
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0,5 km",
+                                "value": 451
+                            },
+                            "duration": {
+                                "text": "6 minutos",
+                                "value": 354
+                            },
+                            "end_location": {
+                                "lat": -23.5924602,
+                                "lng": -46.6370758
+                            },
+                            "html_instructions": "Ande para R. Sena Madureira, 70",
+                            "polyline": {
+                                "points": "fj~nChhs{G@`@CAEAJlAJB?LZFC\\\\@RAb@DJ@H?JDl@VPH@@HDLFLFJHHDJHNJh@f@TTLNRPRPPPJNRPNJFFJT\\ZNN"
+                            },
+                            "start_location": {
+                                "lat": -23.5896374,
+                                "lng": -46.6344482
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "77 m",
+                                        "value": 77
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 77
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5898553,
+                                        "lng": -46.6351171
+                                    },
+                                    "html_instructions": "Siga para <b>oeste</b> em <b>Rua Dr. Pinto Ferraz</b> em direção a <b>Av. Prof. Noé Azevedo</b>",
+                                    "polyline": {
+                                        "points": "fj~nChhs{G@`@CAEAJlAJB?LZF"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5896374,
+                                        "lng": -46.6344482
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,3 km",
+                                        "value": 269
+                                    },
+                                    "duration": {
+                                        "text": "3 minutos",
+                                        "value": 203
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5918944,
+                                        "lng": -46.6364811
+                                    },
+                                    "html_instructions": "Vire <b>à esquerda</b> em direção a <b>R. Domingos de Morais</b>",
+                                    "maneuver": "turn-left",
+                                    "polyline": {
+                                        "points": "rk~nCnls{GC\\\\@RAb@DJ@H?JDl@VPH@@HDLFLFJHHDJHNJh@f@TTLNRPRPPP"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5898553,
+                                        "lng": -46.6351171
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,1 km",
+                                        "value": 105
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 74
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5924602,
+                                        "lng": -46.6370758
+                                    },
+                                    "html_instructions": "Continue até <b>R. Sena Madureira</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "polyline": {
+                                        "points": "hx~nC~ts{GJNRPNJFFJT\\ZNN"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5918944,
+                                        "lng": -46.6364811
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        },
+                        {
+                            "distance": {
+                                "text": "7,5 km",
+                                "value": 7502
+                            },
+                            "duration": {
+                                "text": "29 minutos",
+                                "value": 1741
+                            },
+                            "end_location": {
+                                "lat": -23.596105,
+                                "lng": -46.690822
+                            },
+                            "html_instructions": "Ônibus em direção a Terminal Água Espraiada",
+                            "polyline": {
+                                "points": "`|~nCtxs{GFIDDNN@@LPFJf@`AFLr@xALNBHDNBH@F@H@P@Z@PFdC@RBh@B^BVBT@HD\\Fd@J~@h@nFB`@FvBBdAD`A?J?L@N?P?N?LANALCJ?DAFAJAFAFGVGVADMj@EPQh@Y`AW|@}@~Ce@bBCHQh@I^EJ_@rAi@bBIVGL?FABADCLGPQn@Od@_@jACHQd@EJGHMPGHIFKF_Ah@QHQFSHGBWHWJWLEBEBCDCFk@RQF]LmAf@o@VUJa@Lq@XQF{@Z}@ZoAd@WJ]JYHqAXu@NKBq@La@J}@PsAXs@Va@NQF[N[NGDYNEBMJGDEBURUPUTYZEFQPU\\MPQ^Yn@a@x@EJ_@t@Wf@i@fACFS`@Wj@?@CD[v@EPKNMVIRKVCDEJABs@fBWn@Sj@e@jA[z@MZO`@Wj@KPGDEDIHC@SPGDOHE@E@ULGBGBEBGDGBGDEBC@A@A@C@A@A@A@C@IBEBe@`@MJLRMPKPEJCFCHAB?DAH?H@HBF@DBDFFFDDBBBD@D?HCl@\\HD@@@??@@?@@@@@@@@@BB@@B@@@BBBBFDH|@jBb@p@HJJLFHJLDFFFHHFHLJPLJHHFLHVXs@b@WPGBm@\\a@RBDt@~Ad@~@lAfCJPlAfCv@`BHNNZHPLVr@xAr@xA^t@Vh@bAtBNZJR@LBFJR?BDPBHFTXr@GPHHHBFB@@\\HTFfA\\h@NLDDBDBHJBHFLBH@FDTHZ@HLt@BJBHBN@B@D?D@FBLJ^FNDP@BFPFTJTBFDL@B@BDJDHHPN\\JPJR@B?@FHDHFL\\l@HNR\\FLr@~@RTf@h@FHDBfAbA@@h@b@n@l@JJLJLJx@r@B@B@BBRFDBDBHJHH@@DDBFHJDFFH@F@@DHBHBFBNDRF^F^DTDRJh@h@~CBNJh@Hl@RdAN|@Ln@Lt@Jn@Hd@P|@Jt@DRF^DRFTJn@Lv@Nx@DZJd@@J^rBF^Nx@Jp@FVBPFZFZBNHd@H`@@BNx@ALAD?B@B?F@J?T?J?F?N?JEf@?HAJGXG`@YpAGVGX?@?@A@A@C@GB_AX_ALa@DYBMJCBCDADCFETGZQnANd@|A^hBb@FBFBB@d@LZJd@LPFJBb@HNDH@PBJBJ?H@L@b@?\\?Z?t@?NBTDp@THFFBBBDBVL\\TTNd@Z^V@@JHRLRJTNd@RdA\\rAd@RDNBf@HD@?G"
+                            },
+                            "start_location": {
+                                "lat": -23.5924903,
+                                "lng": -46.63706500000001
+                            },
+                            "transit_details": {
+                                "arrival_stop": {
+                                    "location": {
+                                        "lat": -23.596105,
+                                        "lng": -46.690822
+                                    },
+                                    "name": "Gomes de Carvalho C/B"
+                                },
+                                "arrival_time": {
+                                    "text": "15:03",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714932231
+                                },
+                                "departure_stop": {
+                                    "location": {
+                                        "lat": -23.5924903,
+                                        "lng": -46.63706500000001
+                                    },
+                                    "name": "R. Sena Madureira, 70"
+                                },
+                                "departure_time": {
+                                    "text": "14:34",
+                                    "time_zone": "America/Sao_Paulo",
+                                    "value": 1714930490
+                                },
+                                "headsign": "Terminal Água Espraiada",
+                                "line": {
+                                    "agencies": [
+                                        {
+                                            "name": "SPTrans",
+                                            "url": "http://www.sptrans.com.br/"
+                                        }
+                                    ],
+                                    "color": "#9d0a0f",
+                                    "name": "Terminal Água Espraiada / Metrô Ana Rosa",
+                                    "short_name": "709A-10",
+                                    "text_color": "#ffffff",
+                                    "url": "https://www.sptrans.com.br/itinerarios/linha/?cdp=176111",
+                                    "vehicle": {
+                                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                        "name": "Ônibus",
+                                        "type": "BUS"
+                                    }
+                                },
+                                "num_stops": 14
+                            },
+                            "travel_mode": "TRANSIT"
+                        },
+                        {
+                            "distance": {
+                                "text": "0,3 km",
+                                "value": 261
+                            },
+                            "duration": {
+                                "text": "4 minutos",
+                                "value": 236
+                            },
+                            "end_location": {
+                                "lat": -23.5940221,
+                                "lng": -46.6912297
+                            },
+                            "html_instructions": "Ande para Vila Olímpia - Marginal Pinheiros, 7522 - Pinheiros, São Paulo - SP, 04533-085, Brasil",
+                            "polyline": {
+                                "points": "pr_oCtg~{Gi@IGACPSCCDT@GXIAA@AAQEWv@C?A@ERABiCBeA@OAk@?I?AA"
+                            },
+                            "start_location": {
+                                "lat": -23.5960861,
+                                "lng": -46.6906685
+                            },
+                            "steps": [
+                                {
+                                    "distance": {
+                                        "text": "38 m",
+                                        "value": 38
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 30
+                                    },
+                                    "end_location": {
+                                        "lat": -23.595844,
+                                        "lng": -46.6906058
+                                    },
+                                    "html_instructions": "Siga para <b>norte</b> em <b>R. Funchal</b> em direção a <b>Av. Dr. Cardoso de Melo</b>",
+                                    "polyline": {
+                                        "points": "pr_oCtg~{Gi@IGA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5960861,
+                                        "lng": -46.6906685
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "58 m",
+                                        "value": 58
+                                    },
+                                    "duration": {
+                                        "text": "1 min",
+                                        "value": 68
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5954184,
+                                        "lng": -46.69121519999999
+                                    },
+                                    "html_instructions": "Siga pela passadeira para peões",
+                                    "polyline": {
+                                        "points": "~p_oChg~{GCPSCCDT@GXIAA@AAQEWv@C?A@ERAB"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.595844,
+                                        "lng": -46.6906058
+                                    },
+                                    "travel_mode": "WALKING"
+                                },
+                                {
+                                    "distance": {
+                                        "text": "0,2 km",
+                                        "value": 165
+                                    },
+                                    "duration": {
+                                        "text": "2 minutos",
+                                        "value": 138
+                                    },
+                                    "end_location": {
+                                        "lat": -23.5940221,
+                                        "lng": -46.6912297
+                                    },
+                                    "html_instructions": "Vire <b>à direita</b> em direção a <b>R. Beira Rio</b><div style=\"font-size:0.9em\">O destino encontra-se à direita</div>",
+                                    "maneuver": "turn-right",
+                                    "polyline": {
+                                        "points": "jn_oCbk~{GiCBeA@OAk@?I?AA"
+                                    },
+                                    "start_location": {
+                                        "lat": -23.5954184,
+                                        "lng": -46.69121519999999
+                                    },
+                                    "travel_mode": "WALKING"
+                                }
+                            ],
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "fj~nChhs{G@`@CAEAJlAJB?LZFC\\p@?n@FTD~@`@f@Vp@d@`B~Ad@b@^`@VRJT\\ZNNDAFIDDPPT\\n@nA`AhBNj@FhAPbFNtARdBl@pGPjG@~@Gv@E`@S|@S|@k@jB_CjIaAhD{@pCOh@eAjDWp@UZQPkAp@_A^mAf@IHCFk@Ro@T}B~@{Bz@aFhBw@TgCh@}Cn@sAXs@Vs@VyAt@a@X{AvA{@hAsAtCuCbGa@hAYf@_@|@aElKc@|@MJi@b@oAl@c@VQHk@d@MJLRYb@IRG\\@RDLXVHDNCz@d@NNHLHP|@jBb@p@TXRV^b@t@j@d@b@kAt@u@`@a@RBDzA~CxAxC~CtG~B|EjCpFJR@LBFTr@`@hAGPHHPF^JtCz@JFLTRt@h@jCPz@Vv@l@~A`AnBbAhBz@lAz@~@vArArBhBjA`A`@PZZX`@P\\Pt@`BlJbE`V~AdJ|@~EAZ@t@EjAQpAi@dCGFgA\\aBRYBMJGHS~@QnANd@fEbAx@V~Ad@nATn@FrC?d@Hz@\\h@XxBxAt@d@z@b@xCbApATAe@q@KCPSCCDT@GXIAC?QEWv@E@GVoEDgAC"
+            },
+            "summary": "",
+            "warnings": [
+                "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+            ],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
